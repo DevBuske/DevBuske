@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm João Vitor</h1>
+<h3 align="center">Backend Developer focused on Python & SQL</h3>
 
-<!--
-**DevBuske/DevBuske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Systems Analysis and Development Student
+- 💻 Backend focused (Python + SQL)
+- 🔥 Building NovaTech (DNS SaaS system)
+- 📚 Always learning system architecture & clean code
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux,docker" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark"/>
+</p>
+
+---
+
+### 🌎 Connect with me
+
+[LinkedIn](SEU_LINKEDIN_AQUI)
