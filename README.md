@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 Systems Analysis and Development Student  
-- 💻 Backend developer focused on Python & Elixir  
+- 💻 Backend developer focused on Python  
 - 🧠 Strong interest in clean architecture and system design    
 - 📚 Constantly improving backend fundamentals and database modeling  
 
@@ -22,7 +22,7 @@ I enjoy solving real problems and building structured, scalable applications tha
 
 ### 💻 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,elixir,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs" />
 </p>
 
 ### 🗄 Database
