@@ -1,5 +1,5 @@
 <h1 align="center">João Vitor Buske Marchel</h1>
-<h3 align="center">Backend Developer | Python | Elixir | SQL | Systems Architecture</h3>
+<h3 align="center">Backend Developer | Python | SQL | Systems Architecture</h3>
 
 <p align="center">
   Building real systems. Focused on backend, databases and scalable architecture.
