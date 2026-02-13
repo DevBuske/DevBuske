@@ -80,9 +80,3 @@ Backend authentication system with:
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <i>"Great systems are built with strong fundamentals."</i>
-</p>
