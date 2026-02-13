@@ -11,8 +11,7 @@
 
 - 🎓 Systems Analysis and Development Student  
 - 💻 Backend developer focused on Python & Elixir  
-- 🧠 Strong interest in clean architecture and system design  
-- 🔥 Currently building **NovaTech** – a DNS-based SaaS blocking system  
+- 🧠 Strong interest in clean architecture and system design    
 - 📚 Constantly improving backend fundamentals and database modeling  
 
 I enjoy solving real problems and building structured, scalable applications that simulate real-world production systems.
@@ -91,7 +90,7 @@ Backend authentication system with:
 ## 🌎 Connect with Me
 
 <p>
-  <a href="COLOQUE_SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/joaobuske/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
