@@ -37,20 +37,6 @@ I enjoy solving real problems and building structured, scalable applications tha
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 NovaTech (DNS SaaS System)
-A SaaS platform designed to manage domain blocking using DNS architecture.  
-Includes:
-- Authentication system
-- Admin dashboard
-- Client management
-- Domain filtering logic
-- Logs & audit system
-- Database integration
-
----
-
 ### 🔹 Animal Traceability API
 REST API built with backend best practices:
 - Clean structure
